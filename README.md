@@ -31,7 +31,7 @@ Projekt ma na celu **całkowitą cyfryzację** procesów logistycznych i dokumen
 
 Poniższy diagram ERD przedstawia strukturę relacyjnej bazy danych PostgreSQL, zaprojektowaną na potrzeby systemu Skupomat:
 
-![Schemat Bazy Danych](database_schema.png)
+![Schemat Bazy Danych](Database_schema.png)
 
 
 ### **Roadmap projektu**
