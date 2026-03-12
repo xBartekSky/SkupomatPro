@@ -27,6 +27,12 @@ Projekt ma na celu **całkowitą cyfryzację** procesów logistycznych i dokumen
 * **Skalowalność**: Architektura przygotowana pod obsługę wielu punktów skupu w modelu **SaaS**.
 
 ---
+### Architektura Bazy Danych
+
+Poniższy diagram ERD przedstawia strukturę relacyjnej bazy danych PostgreSQL, zaprojektowaną na potrzeby systemu Skupomat:
+
+![Schemat Bazy Danych](./database_schema.png)
+
 
 ### **Roadmap projektu**
 
